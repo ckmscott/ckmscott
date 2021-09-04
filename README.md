@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ckmscott
-- 👀 I’m interested in coding or IoT/Modbus
+- 👀 I’m interested in coding for IoT/Modbus
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on programming tips in Python.
 - 📫 How to reach me: chrisscottinbox@live.com
